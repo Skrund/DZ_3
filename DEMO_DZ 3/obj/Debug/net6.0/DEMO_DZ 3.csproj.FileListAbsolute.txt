@@ -1,0 +1,15 @@
+E:\SEMINAR_3_DZ\DEMO_DZ 3\obj\Debug\net6.0\DEMO_DZ 3.csproj.AssemblyReference.cache
+E:\SEMINAR_3_DZ\DEMO_DZ 3\obj\Debug\net6.0\DEMO_DZ 3.GeneratedMSBuildEditorConfig.editorconfig
+E:\SEMINAR_3_DZ\DEMO_DZ 3\obj\Debug\net6.0\DEMO_DZ 3.AssemblyInfoInputs.cache
+E:\SEMINAR_3_DZ\DEMO_DZ 3\obj\Debug\net6.0\DEMO_DZ 3.AssemblyInfo.cs
+E:\SEMINAR_3_DZ\DEMO_DZ 3\obj\Debug\net6.0\DEMO_DZ 3.csproj.CoreCompileInputs.cache
+E:\SEMINAR_3_DZ\DEMO_DZ 3\bin\Debug\net6.0\DEMO_DZ 3.exe
+E:\SEMINAR_3_DZ\DEMO_DZ 3\bin\Debug\net6.0\DEMO_DZ 3.deps.json
+E:\SEMINAR_3_DZ\DEMO_DZ 3\bin\Debug\net6.0\DEMO_DZ 3.runtimeconfig.json
+E:\SEMINAR_3_DZ\DEMO_DZ 3\bin\Debug\net6.0\DEMO_DZ 3.dll
+E:\SEMINAR_3_DZ\DEMO_DZ 3\bin\Debug\net6.0\DEMO_DZ 3.pdb
+E:\SEMINAR_3_DZ\DEMO_DZ 3\obj\Debug\net6.0\DEMO_DZ 3.dll
+E:\SEMINAR_3_DZ\DEMO_DZ 3\obj\Debug\net6.0\refint\DEMO_DZ 3.dll
+E:\SEMINAR_3_DZ\DEMO_DZ 3\obj\Debug\net6.0\DEMO_DZ 3.pdb
+E:\SEMINAR_3_DZ\DEMO_DZ 3\obj\Debug\net6.0\DEMO_DZ 3.genruntimeconfig.cache
+E:\SEMINAR_3_DZ\DEMO_DZ 3\obj\Debug\net6.0\ref\DEMO_DZ 3.dll
